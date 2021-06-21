@@ -1,0 +1,15 @@
+h1{
+    font-size:2rem;
+    
+    color:white;
+
+}
+h2,p{
+    
+    font-size:1.5rem;
+    color:rgb(100,100,100);
+}
+h1,h2,p{
+    font-weight:bold;
+    text-align: center;
+}

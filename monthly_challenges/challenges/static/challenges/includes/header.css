@@ -1,0 +1,21 @@
+header{
+    width:100%;
+    height: 5rem;
+    background-image: rgba(100,100,100);
+}
+header nav{
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+header nav a{
+    text-decoration: none;
+    color:white;
+    font-size:2rem;
+}
+header nav a:hover{
+    font-size:3rem;
+    color: red;
+}
